@@ -1,0 +1,10 @@
+body {
+    background-color:hsl(212, 45%, 89%)
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
